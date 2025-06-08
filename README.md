@@ -93,6 +93,6 @@ License
 This project is licensed under the MIT License. See the 'LICENSE' file for more details.
 
 <p align="center">
-  Made with ❤️ by DaCryptoRaccoon
+  Made with ❤️ by 404Panda
 </p>
 ```
